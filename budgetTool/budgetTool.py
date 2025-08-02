@@ -1,3 +1,5 @@
+## This app is a tool for categorizing transactions
+## Up to date 
 import csv
 import time
 import gspread
